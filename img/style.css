@@ -1,0 +1,56 @@
+body {
+    width: 100%;
+    background-image: url('img/fond.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    backdrop-filter: blur(5px);
+  }
+.carouselcss{
+    width: 90vw;
+    height: 65vw;
+}
+.icono{
+    width: 5vw; 
+    height: 5vw;
+}
+.cardmyinfo{
+    width: 58vw;
+}
+.card-img-top{
+    height: 50vw;
+}
+  
+@media (min-width: 950px) {
+    .carouselcss{
+        width: 70vw;
+        height: 45vw;
+    }
+    .icono{
+        width: 4vw; 
+        height: 4vw;
+    }
+    .cardmyinfo{
+        width: 35vw;
+    }
+    .card-img-top{
+        height: 30vw;
+    }
+}
+
+@media (max-width: 600px) {
+    .carouselcss{
+        width: 98vw;
+        height: 80vw;
+    }
+    .icono{
+        width: 6vw; 
+        height: 6vw;
+    }
+    .cardmyinfo{
+        width: 85vw;
+    }
+    .card-img-top{
+        height: 70vw;
+    }
+}
