@@ -20,6 +20,21 @@ body {
 .card-img-top{
     height: 50vw;
 }
+
+.cardProyecto{
+    transition: all 0.3s;
+}
+.cardProyecto:hover{
+    transform: scale(1.05);    
+}
+
+.imgProyecto{
+    max-height: 30vh;
+}
+
+.imgCertificado{
+    max-height: 83vh;
+}
   
 @media (min-width: 950px) {
     .carouselcss{
