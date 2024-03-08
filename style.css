@@ -28,10 +28,6 @@ body {
     transform: scale(1.05);    
 }
 
-.imgProyecto{
-    max-height: 30vh;
-}
-
 .imgCertificado{
     max-height: 83vh;
 }
@@ -51,6 +47,12 @@ body {
     .card-img-top{
         height: 30vw;
     }
+    .imgProyecto{
+        max-height: 20vw;
+    }
+    .anchoCards {
+        width: 85vw;
+    }
 }
 
 @media (max-width: 600px) {
@@ -67,5 +69,11 @@ body {
     }
     .card-img-top{
         height: 70vw;
+    }
+    .imgProyecto{
+        max-height: 42vw;
+    }
+    .anchoCards {
+        width: 95vw;
     }
 }
