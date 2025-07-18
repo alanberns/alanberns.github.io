@@ -8,7 +8,7 @@ function App() {
       </p>
 
       <div class="space-y-4 w-full max-w-sm mx-auto">
-        <a href="https://alanberns.github.io/" class="block w-full bg-sky-200 text-indigo-700 font-semibold py-3 px-6 rounded-full shadow hover:bg-white transition text-center">
+        <a href="https://alanberns.github.io/portfolio" class="block w-full bg-sky-200 text-indigo-700 font-semibold py-3 px-6 rounded-full shadow hover:bg-white transition text-center">
           🎨 Portfolio
         </a>
         <a href="https://alanberns.github.io/ViteApp" class="block w-full bg-sky-200 text-indigo-700 font-semibold py-3 px-6 rounded-full shadow hover:bg-white transition text-center">
