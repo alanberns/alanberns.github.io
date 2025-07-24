@@ -14,6 +14,9 @@ function App() {
         <a href="https://alanberns.github.io/ViteApp" class="block w-full bg-sky-200 text-indigo-700 font-semibold py-3 px-6 rounded-full shadow hover:bg-white transition text-center">
           💻 Página web empresa de software
         </a>
+        <a href="https://alanberns.github.io/cuanto-vale" class="block w-full bg-sky-200 text-indigo-700 font-semibold py-3 px-6 rounded-full shadow hover:bg-white transition text-center">
+          💵 Cuanto vale tu sueldo
+        </a>
         <a href="https://www.linkedin.com/in/alan-berns/" target="_blank" class="block w-full bg-sky-200 text-indigo-700 font-semibold py-3 px-6 rounded-full shadow hover:bg-white transition text-center">
           🔗 LinkedIn
         </a>
