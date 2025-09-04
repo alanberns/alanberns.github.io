@@ -11,6 +11,9 @@ function App() {
         <a href="https://alanberns.github.io/portfolio" class="block w-full bg-sky-200 text-indigo-700 font-semibold py-3 px-6 rounded-full shadow hover:bg-white transition text-center">
           🎨 Portfolio
         </a>
+        <a href="https://turnos-kappa.vercel.app/" target="_blank" class="block w-full bg-sky-200 text-indigo-700 font-semibold py-3 px-6 rounded-full shadow hover:bg-white transition text-center">
+          📅 Turnos online app web
+        </a>
         <a href="https://alanberns.github.io/ViteApp" class="block w-full bg-sky-200 text-indigo-700 font-semibold py-3 px-6 rounded-full shadow hover:bg-white transition text-center">
           💻 Página web empresa de software
         </a>
